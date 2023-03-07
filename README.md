@@ -1,5 +1,5 @@
-## <p align="center">👋 Hi, I’m Ezzeldin. </p>
-<div align="center">
+## <p>👋 Hi, I’m Ezzeldin. </p>
+<div>
 
   [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:faded.lover.shadows@gmail.com)
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ezz-aldyn-husen/)
@@ -10,7 +10,8 @@
 
 ![image](https://user-images.githubusercontent.com/34347098/192654222-b818145f-942c-4eab-a40b-6930a43e3ceb.png)
 
-I'm a full stack engineer, I would rather spend my time coding logic as oppose to front-end stuff.
+I'm a full stack engineer, MERN is my tech stack, and I have used lots of other technologies ( take a look below to get more insight! ).
+I would rather spend my time coding business logic as opposed to front-end user shenanigans. 🌟
 
 **Note**: The image above is the symbol of commitment, after 1 year of self-learning programming it was my first time designing a complex thing, and actually 
 architect it. Was so proud of it I actually put it everywhere I share about my career! :)
@@ -22,7 +23,7 @@ architect it. Was so proud of it I actually put it everywhere I share about my c
 - Learning Algorithms required to make my Game Engine, as a challenge to my problem solving skills.
 
 
-### Technology stacks I use:
+### Technologies I use ( categorized by stacks, ordered by familiarity ):
 
 1. <img alt="ES6" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/><img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 
